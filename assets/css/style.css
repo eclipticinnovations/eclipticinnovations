@@ -3,7 +3,7 @@
 
     Theme Name: Ecliptic Innovations
     Theme URI: http://
-    Description: Creative Agency & Portfolio
+    Description: 
     Author: UI-ThemeZ
     Author URI: http://eclipticinnovations.in/
     Version: 1.0
@@ -146,7 +146,7 @@ section.extra-big-section {
 }
 
 img {
-  max-width: 150%;
+  max-width: 100%;
   height: auto;
 }
 
